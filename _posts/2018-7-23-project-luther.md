@@ -8,9 +8,9 @@ I wanted to use an OLS Lingear Regression model to predict how many points an NB
 I used data from the 2017-18 year and took the rolling mean of any significant stat that I thought would affect the players poimnts
 scored in the next game. I also took into account which opponent they were playing the next game since I thought against weaker teams
 players would generally score more points. With this limited data I was able to make predictions with an average error of about 6.5 points.
-While this isn't the most accurate for predicing precisely how many points a player will score, it might have value for certain bets.</br>
+While this isn't the most accurate for predicing precisely how many points a player will score, it might have value for certain bets.<br/>
 **Possible Bet** <br/>
-![Alt](https://github.com/kevinlin994/kevinlin994.github.io/blob/master/images/examplebet.png "Example Bet")
+![Alt](kevinlin994.github.io/images/examplebet.png "Example Bet")
 <br/>
 In this example, I still might be able to predict with higher confidence which player will score more points relative to other players using my model.
 <br/>
