@@ -2,7 +2,7 @@
 layout: post
 title: How Many Points Will Steph Curry Score in His Next Game?
 ---
-Now that gambling is going to be legal in most states, can I make a model that will make betting a sound investment?<br/>
+Now that gambling is going to be legal in most states, can I wanted to make a model that will make betting a sound investment.<br/>
 
 I wanted to use an OLS Lingear Regression model to predict how many points an NBA All-Star will score in his next game.
 I used data from the 2017-18 year and took the rolling mean of any significant stat that I thought would affect the players poimnts
